@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/parisc
+END
+install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/parisc/install.sh
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/parisc/Kconfig
+END
+Kconfig.debug
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/parisc/Kconfig.debug
+END
+nm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/parisc/nm
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/parisc/Makefile
+END
+defpalo.conf
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/parisc/defpalo.conf
+END

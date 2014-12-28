@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/include/config/hdlc
+END
+raw.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/include/config/hdlc/raw.h
+END
+x25.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/include/config/hdlc/x25.h
+END
+ppp.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/include/config/hdlc/ppp.h
+END
+cisco.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/include/config/hdlc/cisco.h
+END
+fr.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/include/config/hdlc/fr.h
+END

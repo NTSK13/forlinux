@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/arm
+END
+Interrupts
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/arm/Interrupts
+END
+Netwinder
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/arm/Netwinder
+END
+Setup
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/arm/Setup
+END
+tcm.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/arm/tcm.txt
+END
+Booting
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/arm/Booting
+END
+Porting
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/arm/Porting
+END
+IXP2000
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/arm/IXP2000
+END
+00-INDEX
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/arm/00-INDEX
+END
+IXP4xx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/arm/IXP4xx
+END
+memory.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/arm/memory.txt
+END
+mem_alignment
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/arm/mem_alignment
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/arm/README
+END

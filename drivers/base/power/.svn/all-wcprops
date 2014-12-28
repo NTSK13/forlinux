@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/base/power
+END
+trace.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/base/power/trace.c
+END
+power.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/base/power/power.h
+END
+runtime.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/base/power/runtime.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/base/power/main.c
+END
+sysfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/base/power/sysfs.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/base/power/Makefile
+END
+wakeup.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/base/power/wakeup.c
+END
+generic_ops.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/base/power/generic_ops.c
+END

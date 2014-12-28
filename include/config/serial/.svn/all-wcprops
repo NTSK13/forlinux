@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/include/config/serial
+END
+max3100.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/include/config/serial/max3100.h
+END
+nonstandard.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/include/config/serial/nonstandard.h
+END
+samsung.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/include/config/serial/samsung.h
+END
+8250.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/include/config/serial/8250.h
+END
+s3c6400.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/include/config/serial/s3c6400.h
+END
+core.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/include/config/serial/core.h
+END

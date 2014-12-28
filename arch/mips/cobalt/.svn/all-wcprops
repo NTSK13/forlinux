@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/cobalt
+END
+buttons.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/cobalt/buttons.c
+END
+time.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/cobalt/time.c
+END
+serial.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/cobalt/serial.c
+END
+setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/cobalt/setup.c
+END
+console.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/cobalt/console.c
+END
+lcd.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/cobalt/lcd.c
+END
+reset.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/cobalt/reset.c
+END
+Platform
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/cobalt/Platform
+END
+led.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/cobalt/led.c
+END
+mtd.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/cobalt/mtd.c
+END
+rtc.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/cobalt/rtc.c
+END
+irq.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/cobalt/irq.c
+END
+pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/cobalt/pci.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/cobalt/Makefile
+END

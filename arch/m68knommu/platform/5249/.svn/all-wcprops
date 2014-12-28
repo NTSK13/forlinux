@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/m68knommu/platform/5249
+END
+gpio.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/m68knommu/platform/5249/gpio.c
+END
+intc2.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/m68knommu/platform/5249/intc2.c
+END
+config.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/m68knommu/platform/5249/config.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/m68knommu/platform/5249/Makefile
+END

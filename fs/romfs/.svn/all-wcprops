@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/fs/romfs
+END
+super.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/fs/romfs/super.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/fs/romfs/Kconfig
+END
+internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/fs/romfs/internal.h
+END
+mmap-nommu.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/fs/romfs/mmap-nommu.c
+END
+storage.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/fs/romfs/storage.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/fs/romfs/Makefile
+END

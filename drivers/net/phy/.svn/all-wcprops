@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/net/phy
+END
+icplus.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/net/phy/icplus.c
+END
+fixed.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/net/phy/fixed.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/net/phy/Kconfig
+END
+phy.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/net/phy/phy.c
+END
+mdio_bus.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/net/phy/mdio_bus.c
+END
+marvell.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/net/phy/marvell.c
+END
+cicada.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/net/phy/cicada.c
+END
+ste10Xp.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/net/phy/ste10Xp.c
+END
+national.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/net/phy/national.c
+END
+smsc.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/net/phy/smsc.c
+END
+lxt.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/net/phy/lxt.c
+END
+micrel.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/net/phy/micrel.c
+END
+mdio-octeon.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/net/phy/mdio-octeon.c
+END
+et1011c.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/net/phy/et1011c.c
+END
+qsemi.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/net/phy/qsemi.c
+END
+phy_device.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/net/phy/phy_device.c
+END
+davicom.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/net/phy/davicom.c
+END
+vitesse.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/net/phy/vitesse.c
+END
+mdio-gpio.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/net/phy/mdio-gpio.c
+END
+broadcom.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/net/phy/broadcom.c
+END
+realtek.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/net/phy/realtek.c
+END
+bcm63xx.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/net/phy/bcm63xx.c
+END
+mdio-bitbang.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/net/phy/mdio-bitbang.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/net/phy/Makefile
+END

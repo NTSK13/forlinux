@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/net/caif
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/net/caif/Kconfig
+END
+caif_serial.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/net/caif/caif_serial.c
+END
+caif_spi_slave.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/net/caif/caif_spi_slave.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/net/caif/Makefile
+END
+caif_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/net/caif/caif_spi.c
+END

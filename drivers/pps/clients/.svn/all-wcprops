@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/pps/clients
+END
+pps-ldisc.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/pps/clients/pps-ldisc.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/pps/clients/Kconfig
+END
+pps-ktimer.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/pps/clients/pps-ktimer.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/pps/clients/Makefile
+END

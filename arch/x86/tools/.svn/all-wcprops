@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/x86/tools
+END
+distill.awk
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/x86/tools/distill.awk
+END
+chkobjdump.awk
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/x86/tools/chkobjdump.awk
+END
+gen-insn-attr-x86.awk
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/x86/tools/gen-insn-attr-x86.awk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/x86/tools/Makefile
+END
+test_get_len.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/x86/tools/test_get_len.c
+END

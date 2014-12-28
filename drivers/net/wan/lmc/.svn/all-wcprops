@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/net/wan/lmc
+END
+lmc_proto.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/net/wan/lmc/lmc_proto.c
+END
+lmc_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/net/wan/lmc/lmc_main.c
+END
+lmc.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/net/wan/lmc/lmc.h
+END
+lmc_debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/net/wan/lmc/lmc_debug.c
+END
+lmc_proto.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/net/wan/lmc/lmc_proto.h
+END
+lmc_debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/net/wan/lmc/lmc_debug.h
+END
+lmc_var.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/net/wan/lmc/lmc_var.h
+END
+lmc_ioctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/net/wan/lmc/lmc_ioctl.h
+END
+lmc_media.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/net/wan/lmc/lmc_media.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/net/wan/lmc/Makefile
+END

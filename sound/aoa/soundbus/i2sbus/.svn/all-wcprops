@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/sound/aoa/soundbus/i2sbus
+END
+pcm.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/sound/aoa/soundbus/i2sbus/pcm.c
+END
+control.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/sound/aoa/soundbus/i2sbus/control.c
+END
+interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/sound/aoa/soundbus/i2sbus/interface.h
+END
+core.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/sound/aoa/soundbus/i2sbus/core.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/sound/aoa/soundbus/i2sbus/Makefile
+END
+i2sbus.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/sound/aoa/soundbus/i2sbus/i2sbus.h
+END

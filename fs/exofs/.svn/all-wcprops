@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/fs/exofs
+END
+dir.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/fs/exofs/dir.c
+END
+inode.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/fs/exofs/inode.c
+END
+super.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/fs/exofs/super.c
+END
+BUGS
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/fs/exofs/BUGS
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/fs/exofs/Kconfig
+END
+file.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/fs/exofs/file.c
+END
+symlink.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/fs/exofs/symlink.c
+END
+Kbuild
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/fs/exofs/Kbuild
+END
+exofs.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/fs/exofs/exofs.h
+END
+namei.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/fs/exofs/namei.c
+END
+ios.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/fs/exofs/ios.c
+END
+pnfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/fs/exofs/pnfs.h
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/fs/exofs/common.h
+END

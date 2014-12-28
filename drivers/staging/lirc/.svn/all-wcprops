@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/lirc
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/lirc/Kconfig
+END
+lirc_it87.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/lirc/lirc_it87.c
+END
+lirc_parallel.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/lirc/lirc_parallel.c
+END
+lirc_ttusbir.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/lirc/lirc_ttusbir.c
+END
+lirc_sir.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/lirc/lirc_sir.c
+END
+lirc_it87.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/lirc/lirc_it87.h
+END
+TODO.lirc_i2c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/lirc/TODO.lirc_i2c
+END
+lirc_parallel.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/lirc/lirc_parallel.h
+END
+lirc_imon.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/lirc/lirc_imon.c
+END
+lirc_igorplugusb.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/lirc/lirc_igorplugusb.c
+END
+lirc_sasem.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/lirc/lirc_sasem.c
+END
+lirc_bt829.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/lirc/lirc_bt829.c
+END
+lirc_ite8709.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/lirc/lirc_ite8709.c
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/lirc/TODO
+END
+lirc_i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/lirc/lirc_i2c.c
+END
+lirc_ene0100.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/lirc/lirc_ene0100.h
+END
+lirc_serial.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/lirc/lirc_serial.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/lirc/Makefile
+END
+lirc_zilog.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/lirc/lirc_zilog.c
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/cpufreq
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/cpufreq/Kconfig
+END
+cpufreq_userspace.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/cpufreq/cpufreq_userspace.c
+END
+cpufreq_powersave.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/cpufreq/cpufreq_powersave.c
+END
+cpufreq_interactive.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/cpufreq/cpufreq_interactive.c
+END
+cpufreq_stats.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/cpufreq/cpufreq_stats.c
+END
+freq_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/cpufreq/freq_table.c
+END
+cpufreq.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/cpufreq/cpufreq.c
+END
+cpufreq_performance.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/cpufreq/cpufreq_performance.c
+END
+cpufreq_ondemand.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/cpufreq/cpufreq_ondemand.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/cpufreq/Makefile
+END
+cpufreq_conservative.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/cpufreq/cpufreq_conservative.c
+END

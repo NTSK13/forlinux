@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/infiniband/ulp/srp
+END
+ib_srp.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/infiniband/ulp/srp/ib_srp.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/infiniband/ulp/srp/Kconfig
+END
+ib_srp.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/infiniband/ulp/srp/ib_srp.h
+END
+Kbuild
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/infiniband/ulp/srp/Kbuild
+END

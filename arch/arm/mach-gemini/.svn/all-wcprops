@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/arm/mach-gemini
+END
+Makefile.boot
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/arm/mach-gemini/Makefile.boot
+END
+gpio.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/arm/mach-gemini/gpio.c
+END
+time.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/arm/mach-gemini/time.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/arm/mach-gemini/Kconfig
+END
+board-nas4220b.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/arm/mach-gemini/board-nas4220b.c
+END
+board-rut1xx.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/arm/mach-gemini/board-rut1xx.c
+END
+devices.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/arm/mach-gemini/devices.c
+END
+board-wbd111.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/arm/mach-gemini/board-wbd111.c
+END
+board-wbd222.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/arm/mach-gemini/board-wbd222.c
+END
+mm.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/arm/mach-gemini/mm.c
+END
+irq.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/arm/mach-gemini/irq.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/arm/mach-gemini/Makefile
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/arm/mach-gemini/common.h
+END

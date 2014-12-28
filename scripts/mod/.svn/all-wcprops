@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/scripts/mod
+END
+empty.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/scripts/mod/empty.c
+END
+elfconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sourcecode-android/!svn/ver/95/tags/android2.3_kernel_v1.01/scripts/mod/elfconfig.h
+END
+mk_elfconfig
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sourcecode-android/!svn/ver/95/tags/android2.3_kernel_v1.01/scripts/mod/mk_elfconfig
+END
+mk_elfconfig.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/scripts/mod/mk_elfconfig.c
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/scripts/mod/.gitignore
+END
+modpost
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sourcecode-android/!svn/ver/95/tags/android2.3_kernel_v1.01/scripts/mod/modpost
+END
+modpost.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/scripts/mod/modpost.c
+END
+modpost.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/scripts/mod/modpost.h
+END
+sumversion.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/scripts/mod/sumversion.c
+END
+file2alias.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/scripts/mod/file2alias.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/scripts/mod/Makefile
+END

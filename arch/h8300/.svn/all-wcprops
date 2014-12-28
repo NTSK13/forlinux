@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/h8300
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/h8300/Kconfig
+END
+Kconfig.ide
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/h8300/Kconfig.ide
+END
+defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/h8300/defconfig
+END
+Kconfig.debug
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/h8300/Kconfig.debug
+END
+Kconfig.cpu
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/h8300/Kconfig.cpu
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/h8300/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/h8300/README
+END

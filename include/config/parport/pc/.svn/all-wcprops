@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/include/config/parport/pc
+END
+pcmcia.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/include/config/parport/pc/pcmcia.h
+END
+fifo.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/include/config/parport/pc/fifo.h
+END

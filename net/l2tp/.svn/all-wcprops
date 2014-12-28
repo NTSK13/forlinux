@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/net/l2tp
+END
+l2tp_core.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/net/l2tp/l2tp_core.h
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/net/l2tp/Kconfig
+END
+l2tp_debugfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/net/l2tp/l2tp_debugfs.c
+END
+l2tp_ppp.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/net/l2tp/l2tp_ppp.c
+END
+l2tp_eth.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/net/l2tp/l2tp_eth.c
+END
+l2tp_netlink.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/net/l2tp/l2tp_netlink.c
+END
+l2tp_core.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/net/l2tp/l2tp_core.c
+END
+l2tp_ip.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/net/l2tp/l2tp_ip.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/net/l2tp/Makefile
+END

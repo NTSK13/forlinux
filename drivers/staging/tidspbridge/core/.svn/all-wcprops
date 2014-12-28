@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/core
+END
+wdt.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/core/wdt.c
+END
+tiomap3430.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/core/tiomap3430.c
+END
+_deh.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/core/_deh.h
+END
+io_sm.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/core/io_sm.c
+END
+dsp-clock.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/core/dsp-clock.c
+END
+tiomap_io.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/core/tiomap_io.c
+END
+_cmm.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/core/_cmm.h
+END
+chnl_sm.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/core/chnl_sm.c
+END
+tiomap_io.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/core/tiomap_io.h
+END
+msg_sm.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/core/msg_sm.c
+END
+_tiomap_pwr.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/core/_tiomap_pwr.h
+END
+ue_deh.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/core/ue_deh.c
+END
+_msg_sm.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/core/_msg_sm.h
+END
+tiomap3430_pwr.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/core/tiomap3430_pwr.c
+END
+_tiomap.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/core/_tiomap.h
+END

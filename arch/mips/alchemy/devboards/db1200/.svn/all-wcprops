@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/alchemy/devboards/db1200
+END
+setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/alchemy/devboards/db1200/setup.c
+END
+platform.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/alchemy/devboards/db1200/platform.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/alchemy/devboards/db1200/Makefile
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/cavium-octeon
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/cavium-octeon/Kconfig
+END
+csrc-octeon.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/cavium-octeon/csrc-octeon.c
+END
+octeon-memcpy.S
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/cavium-octeon/octeon-memcpy.S
+END
+octeon_boot.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/cavium-octeon/octeon_boot.h
+END
+serial.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/cavium-octeon/serial.c
+END
+smp.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/cavium-octeon/smp.c
+END
+octeon-irq.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/cavium-octeon/octeon-irq.c
+END
+setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/cavium-octeon/setup.c
+END
+Platform
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/cavium-octeon/Platform
+END
+dma-octeon.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/cavium-octeon/dma-octeon.c
+END
+cpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/cavium-octeon/cpu.c
+END
+octeon-platform.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/cavium-octeon/octeon-platform.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/cavium-octeon/Makefile
+END
+flash_setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/cavium-octeon/flash_setup.c
+END

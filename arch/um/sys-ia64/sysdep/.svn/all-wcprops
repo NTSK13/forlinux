@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/um/sys-ia64/sysdep
+END
+syscalls.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/um/sys-ia64/sysdep/syscalls.h
+END
+ptrace.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/um/sys-ia64/sysdep/ptrace.h
+END
+skas_ptrace.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/um/sys-ia64/sysdep/skas_ptrace.h
+END
+sigcontext.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/um/sys-ia64/sysdep/sigcontext.h
+END

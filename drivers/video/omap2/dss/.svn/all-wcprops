@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/video/omap2/dss
+END
+dss.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/video/omap2/dss/dss.h
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/video/omap2/dss/Kconfig
+END
+dsi.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/video/omap2/dss/dsi.c
+END
+sdi.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/video/omap2/dss/sdi.c
+END
+overlay.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/video/omap2/dss/overlay.c
+END
+dispc.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/video/omap2/dss/dispc.c
+END
+rfbi.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/video/omap2/dss/rfbi.c
+END
+display.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/video/omap2/dss/display.c
+END
+core.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/video/omap2/dss/core.c
+END
+dss.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/video/omap2/dss/dss.c
+END
+manager.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/video/omap2/dss/manager.c
+END
+venc.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/video/omap2/dss/venc.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/video/omap2/dss/Makefile
+END
+dpi.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/video/omap2/dss/dpi.c
+END

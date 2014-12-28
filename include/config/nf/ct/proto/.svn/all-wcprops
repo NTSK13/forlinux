@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/include/config/nf/ct/proto
+END
+dccp.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/include/config/nf/ct/proto/dccp.h
+END
+sctp.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/include/config/nf/ct/proto/sctp.h
+END
+gre.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/include/config/nf/ct/proto/gre.h
+END
+udplite.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/include/config/nf/ct/proto/udplite.h
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/asus_oled
+END
+asus_oled.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/asus_oled/asus_oled.c
+END
+tux_r.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/asus_oled/tux_r.txt
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/asus_oled/Kconfig
+END
+tux_r2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/asus_oled/tux_r2.txt
+END
+linux_f.txt
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/asus_oled/linux_f.txt
+END
+linux_fr.txt
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/asus_oled/linux_fr.txt
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/asus_oled/TODO
+END
+zig.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/asus_oled/zig.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/asus_oled/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/asus_oled/README
+END
+linux.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/asus_oled/linux.txt
+END
+tux.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/asus_oled/tux.txt
+END

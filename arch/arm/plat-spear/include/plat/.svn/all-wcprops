@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/arm/plat-spear/include/plat
+END
+clock.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/arm/plat-spear/include/plat/clock.h
+END
+vmalloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/arm/plat-spear/include/plat/vmalloc.h
+END
+gpio.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/arm/plat-spear/include/plat/gpio.h
+END
+padmux.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/arm/plat-spear/include/plat/padmux.h
+END
+uncompress.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/arm/plat-spear/include/plat/uncompress.h
+END
+debug-macro.S
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/arm/plat-spear/include/plat/debug-macro.S
+END
+system.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/arm/plat-spear/include/plat/system.h
+END
+shirq.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/arm/plat-spear/include/plat/shirq.h
+END
+timex.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/arm/plat-spear/include/plat/timex.h
+END
+io.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/arm/plat-spear/include/plat/io.h
+END
+clkdev.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/arm/plat-spear/include/plat/clkdev.h
+END
+memory.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/arm/plat-spear/include/plat/memory.h
+END

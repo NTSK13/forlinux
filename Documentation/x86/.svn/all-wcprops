@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/x86
+END
+boot.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/x86/boot.txt
+END
+earlyprintk.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/x86/earlyprintk.txt
+END
+mtrr.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/x86/mtrr.txt
+END
+pat.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/x86/pat.txt
+END
+usb-legacy-support.txt
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/x86/usb-legacy-support.txt
+END
+00-INDEX
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/x86/00-INDEX
+END
+exception-tables.txt
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/x86/exception-tables.txt
+END
+zero-page.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/x86/zero-page.txt
+END

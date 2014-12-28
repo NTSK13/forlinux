@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/net/dccp
+END
+minisocks.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/net/dccp/minisocks.c
+END
+input.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/net/dccp/input.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/net/dccp/Kconfig
+END
+output.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/net/dccp/output.c
+END
+ackvec.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/net/dccp/ackvec.h
+END
+ccid.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/net/dccp/ccid.c
+END
+proto.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/net/dccp/proto.c
+END
+diag.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/net/dccp/diag.c
+END
+ccid.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/net/dccp/ccid.h
+END
+probe.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/net/dccp/probe.c
+END
+dccp.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/net/dccp/dccp.h
+END
+feat.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/net/dccp/feat.c
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/net/dccp/timer.c
+END
+sysctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/net/dccp/sysctl.c
+END
+ipv4.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/net/dccp/ipv4.c
+END
+ipv6.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/net/dccp/ipv6.c
+END
+feat.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/net/dccp/feat.h
+END
+ipv6.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/net/dccp/ipv6.h
+END
+options.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/net/dccp/options.c
+END
+ackvec.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/net/dccp/ackvec.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/net/dccp/Makefile
+END

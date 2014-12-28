@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/cdrom
+END
+cdrom-standard.tex
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/cdrom/cdrom-standard.tex
+END
+00-INDEX
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/cdrom/00-INDEX
+END
+ide-cd
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/cdrom/ide-cd
+END
+packet-writing.txt
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/cdrom/packet-writing.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/cdrom/Makefile
+END

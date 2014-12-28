@@ -1,0 +1,719 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib
+END
+crc7.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/crc7.c
+END
+proportions.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/proportions.c
+END
+locking-selftest-wlock.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/locking-selftest-wlock.h
+END
+btree.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/btree.c
+END
+bust_spinlocks.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/bust_spinlocks.c
+END
+cpumask.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/cpumask.c
+END
+Kconfig.kgdb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/Kconfig.kgdb
+END
+prio_heap.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/prio_heap.c
+END
+uuid.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/uuid.c
+END
+kobject_uevent.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/kobject_uevent.c
+END
+hexdump.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/hexdump.c
+END
+argv_split.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/argv_split.c
+END
+irq_regs.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/irq_regs.c
+END
+cmdline.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/cmdline.c
+END
+is_single_threaded.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/is_single_threaded.c
+END
+find_next_bit.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/find_next_bit.c
+END
+crc32.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/crc32.c
+END
+idr.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/idr.c
+END
+halfmd4.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/halfmd4.c
+END
+swiotlb.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/swiotlb.c
+END
+extable.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/extable.c
+END
+atomic64.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/atomic64.c
+END
+locking-selftest-wlock-hardirq.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/locking-selftest-wlock-hardirq.h
+END
+kernel_lock.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/kernel_lock.c
+END
+bcd.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/bcd.c
+END
+dump_stack.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/dump_stack.c
+END
+ratelimit.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/ratelimit.c
+END
+decompress_unlzo.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/decompress_unlzo.c
+END
+locking-selftest-wsem.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/locking-selftest-wsem.h
+END
+plist.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/plist.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/Makefile
+END
+flex_array.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/flex_array.c
+END
+gcd.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/gcd.c
+END
+check_signature.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/check_signature.c
+END
+iomap_copy.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/iomap_copy.c
+END
+kasprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/kasprintf.c
+END
+checksum.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/checksum.c
+END
+iommu-helper.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/iommu-helper.c
+END
+decompress.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/decompress.c
+END
+radix-tree.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/radix-tree.c
+END
+audit.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/audit.c
+END
+libcrc32c.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/libcrc32c.c
+END
+crc-itu-t.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/crc-itu-t.c
+END
+locking-selftest-softirq.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/locking-selftest-softirq.h
+END
+smp_processor_id.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/smp_processor_id.c
+END
+vsprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/vsprintf.c
+END
+bitmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/bitmap.c
+END
+bug.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/bug.c
+END
+locking-selftest.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/locking-selftest.c
+END
+rwsem-spinlock.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/rwsem-spinlock.c
+END
+locking-selftest-rlock-softirq.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/locking-selftest-rlock-softirq.h
+END
+debug_locks.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/debug_locks.c
+END
+kobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/kobject.c
+END
+inflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/inflate.c
+END
+list_sort.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/list_sort.c
+END
+locking-selftest-mutex.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/locking-selftest-mutex.h
+END
+crc32defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/crc32defs.h
+END
+rbtree.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/rbtree.c
+END
+dec_and_lock.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/dec_and_lock.c
+END
+random32.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/random32.c
+END
+sort.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/sort.c
+END
+kref.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/kref.c
+END
+locking-selftest-rlock.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/locking-selftest-rlock.h
+END
+bitrev.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/bitrev.c
+END
+parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/parser.c
+END
+sha1.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/sha1.c
+END
+hweight.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/hweight.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/Kconfig
+END
+debugobjects.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/debugobjects.c
+END
+int_sqrt.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/int_sqrt.c
+END
+nlattr.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/nlattr.c
+END
+ts_bm.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/ts_bm.c
+END
+cpu-notifier-error-inject.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/cpu-notifier-error-inject.c
+END
+decompress_inflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/decompress_inflate.c
+END
+string.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/string.c
+END
+locking-selftest-hardirq.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/locking-selftest-hardirq.h
+END
+syscall.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/syscall.c
+END
+crc-ccitt.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/crc-ccitt.c
+END
+gen_crc32table.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/gen_crc32table.c
+END
+decompress_bunzip2.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/decompress_bunzip2.c
+END
+crc16.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/crc16.c
+END
+locking-selftest-spin-softirq.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/locking-selftest-spin-softirq.h
+END
+locking-selftest-rlock-hardirq.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/locking-selftest-rlock-hardirq.h
+END
+genalloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/genalloc.c
+END
+klist.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/klist.c
+END
+prio_tree.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/prio_tree.c
+END
+spinlock_debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/spinlock_debug.c
+END
+string_helpers.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/string_helpers.c
+END
+locking-selftest-spin.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/locking-selftest-spin.h
+END
+dynamic_debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/dynamic_debug.c
+END
+ts_fsm.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/ts_fsm.c
+END
+ioremap.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/ioremap.c
+END
+div64.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/div64.c
+END
+crc-t10dif.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/crc-t10dif.c
+END
+percpu_counter.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/percpu_counter.c
+END
+ts_kmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/ts_kmp.c
+END
+find_last_bit.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/find_last_bit.c
+END
+scatterlist.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/scatterlist.c
+END
+iomap.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/iomap.c
+END
+rational.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/rational.c
+END
+textsearch.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/textsearch.c
+END
+lcm.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/lcm.c
+END
+show_mem.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/show_mem.c
+END
+list_debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/list_debug.c
+END
+locking-selftest-spin-hardirq.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/locking-selftest-spin-hardirq.h
+END
+Kconfig.debug
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/Kconfig.debug
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/.gitignore
+END
+ctype.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/ctype.c
+END
+locking-selftest-wlock-softirq.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/locking-selftest-wlock-softirq.h
+END
+fault-inject.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/fault-inject.c
+END
+dma-debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/dma-debug.c
+END
+atomic64_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/atomic64_test.c
+END
+Kconfig.kmemcheck
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/Kconfig.kmemcheck
+END
+lru_cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/lru_cache.c
+END
+reciprocal_div.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/reciprocal_div.c
+END
+locking-selftest-rsem.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/locking-selftest-rsem.h
+END
+devres.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/devres.c
+END
+decompress_unlzma.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/decompress_unlzma.c
+END
+rwsem.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/lib/rwsem.c
+END

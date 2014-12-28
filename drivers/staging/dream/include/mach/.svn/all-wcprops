@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/dream/include/mach
+END
+msm_smd.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/dream/include/mach/msm_smd.h
+END
+msm_rpcrouter.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/dream/include/mach/msm_rpcrouter.h
+END
+msm_adsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/dream/include/mach/msm_adsp.h
+END
+camera.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/dream/include/mach/camera.h
+END

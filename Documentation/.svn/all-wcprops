@@ -1,0 +1,809 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation
+END
+cpu-load.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/cpu-load.txt
+END
+debugging-via-ohci1394.txt
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/debugging-via-ohci1394.txt
+END
+SecurityBugs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/SecurityBugs
+END
+keys.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/keys.txt
+END
+unaligned-memory-access.txt
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/unaligned-memory-access.txt
+END
+ldm.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/ldm.txt
+END
+SAK.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/SAK.txt
+END
+devices.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/devices.txt
+END
+lockstat.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/lockstat.txt
+END
+vgaarbiter.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/vgaarbiter.txt
+END
+prio_tree.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/prio_tree.txt
+END
+Changes
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/Changes
+END
+isapnp.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/isapnp.txt
+END
+irqflags-tracing.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/irqflags-tracing.txt
+END
+io-mapping.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/io-mapping.txt
+END
+mca.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/mca.txt
+END
+logo.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/logo.txt
+END
+nmi_watchdog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/nmi_watchdog.txt
+END
+video-output.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/video-output.txt
+END
+intel_txt.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/intel_txt.txt
+END
+memory-barriers.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/memory-barriers.txt
+END
+highuid.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/highuid.txt
+END
+java.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/java.txt
+END
+rbtree.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/rbtree.txt
+END
+cputopology.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/cputopology.txt
+END
+leds-lp3944.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/leds-lp3944.txt
+END
+iostats.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/iostats.txt
+END
+lockdep-design.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/lockdep-design.txt
+END
+feature-removal-schedule.txt
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/feature-removal-schedule.txt
+END
+leds-class.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/leds-class.txt
+END
+IRQ.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/IRQ.txt
+END
+bt8xxgpio.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/bt8xxgpio.txt
+END
+gcov.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/gcov.txt
+END
+Smack.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/Smack.txt
+END
+robust-futexes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/robust-futexes.txt
+END
+oops-tracing.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/oops-tracing.txt
+END
+unshare.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/unshare.txt
+END
+btmrvl.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/btmrvl.txt
+END
+BUG-HUNTING
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/BUG-HUNTING
+END
+mutex-design.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/mutex-design.txt
+END
+kernel-doc-nano-HOWTO.txt
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/kernel-doc-nano-HOWTO.txt
+END
+stable_api_nonsense.txt
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/stable_api_nonsense.txt
+END
+hw_random.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/hw_random.txt
+END
+serial-console.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/serial-console.txt
+END
+ManagementStyle
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/ManagementStyle
+END
+SubmitChecklist
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/SubmitChecklist
+END
+dontdiff
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/dontdiff
+END
+printk-formats.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/printk-formats.txt
+END
+android.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/android.txt
+END
+SELinux.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/SELinux.txt
+END
+dmaengine.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/dmaengine.txt
+END
+rt-mutex-design.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/rt-mutex-design.txt
+END
+sysfs-rules.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/sysfs-rules.txt
+END
+io_ordering.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/io_ordering.txt
+END
+pi-futex.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/pi-futex.txt
+END
+IRQ-affinity.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/IRQ-affinity.txt
+END
+DMA-API-HOWTO.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/DMA-API-HOWTO.txt
+END
+cpu-hotplug.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/cpu-hotplug.txt
+END
+mono.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/mono.txt
+END
+memory.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/memory.txt
+END
+zorro.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/zorro.txt
+END
+apparmor.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/apparmor.txt
+END
+HOWTO
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/HOWTO
+END
+rfkill.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/rfkill.txt
+END
+kmemleak.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/kmemleak.txt
+END
+parport.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/parport.txt
+END
+workqueue.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/workqueue.txt
+END
+padata.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/padata.txt
+END
+sgi-visws.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/sgi-visws.txt
+END
+atomic_ops.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/atomic_ops.txt
+END
+credentials.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/credentials.txt
+END
+sparse.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/sparse.txt
+END
+IPMI.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/IPMI.txt
+END
+svga.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/svga.txt
+END
+init.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/init.txt
+END
+00-INDEX
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/00-INDEX
+END
+CodingStyle
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/CodingStyle
+END
+futex-requeue-pi.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/futex-requeue-pi.txt
+END
+SubmittingPatches
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/SubmittingPatches
+END
+nommu-mmap.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/nommu-mmap.txt
+END
+bus-virt-phys-mapping.txt
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/bus-virt-phys-mapping.txt
+END
+unicode.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/unicode.txt
+END
+volatile-considered-harmful.txt
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/volatile-considered-harmful.txt
+END
+rtc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/rtc.txt
+END
+initrd.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/initrd.txt
+END
+numastat.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/numastat.txt
+END
+circular-buffers.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/circular-buffers.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/Makefile
+END
+robust-futex-ABI.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/robust-futex-ABI.txt
+END
+preempt-locking.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/preempt-locking.txt
+END
+coccinelle.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/coccinelle.txt
+END
+cachetlb.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/cachetlb.txt
+END
+SM501.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/SM501.txt
+END
+magic-number.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/magic-number.txt
+END
+kernel-docs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/kernel-docs.txt
+END
+sgi-ioc4.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/sgi-ioc4.txt
+END
+parport-lowlevel.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/parport-lowlevel.txt
+END
+kernel-parameters.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/kernel-parameters.txt
+END
+kobject.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/kobject.txt
+END
+stable_kernel_rules.txt
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/stable_kernel_rules.txt
+END
+tomoyo.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/tomoyo.txt
+END
+email-clients.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/email-clients.txt
+END
+DMA-ISA-LPC.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/DMA-ISA-LPC.txt
+END
+kref.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/kref.txt
+END
+dell_rbu.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/dell_rbu.txt
+END
+flexible-arrays.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/flexible-arrays.txt
+END
+gpio.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/gpio.txt
+END
+md.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/md.txt
+END
+debugging-modules.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/debugging-modules.txt
+END
+kprobes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/kprobes.txt
+END
+SubmittingDrivers
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/SubmittingDrivers
+END
+dynamic-debug-howto.txt
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/dynamic-debug-howto.txt
+END
+applying-patches.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/applying-patches.txt
+END
+braille-console.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/braille-console.txt
+END
+dcdbas.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/dcdbas.txt
+END
+logo.gif
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/logo.gif
+END
+kmemcheck.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/kmemcheck.txt
+END
+basic_profiling.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/basic_profiling.txt
+END
+edac.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/edac.txt
+END
+pnp.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/pnp.txt
+END
+spinlocks.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/spinlocks.txt
+END
+DMA-API.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/DMA-API.txt
+END
+local_ops.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/local_ops.txt
+END
+bad_memory.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/bad_memory.txt
+END
+sysrq.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/sysrq.txt
+END
+eisa.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/eisa.txt
+END
+VGA-softcursor.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/VGA-softcursor.txt
+END
+DMA-attributes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/DMA-attributes.txt
+END
+rt-mutex.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/rt-mutex.txt
+END
+keys-request-key.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/keys-request-key.txt
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/.gitignore
+END
+memory-hotplug.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/memory-hotplug.txt
+END
+binfmt_misc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/binfmt_misc.txt
+END
+Intel-IOMMU.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/Intel-IOMMU.txt
+END

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware
+END
+README.AddingFirmware
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/README.AddingFirmware
+END
+mts_gsm.fw.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/mts_gsm.fw.ihex
+END
+ti_3410.fw.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/ti_3410.fw.ihex
+END
+intelliport2.bin.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/intelliport2.bin.ihex
+END
+whiteheat_loader.HEX
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/whiteheat_loader.HEX
+END
+bnx2x-e1-5.2.13.0.fw.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/bnx2x-e1-5.2.13.0.fw.ihex
+END
+ihex2fw.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/ihex2fw.c
+END
+ti_5052.fw.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/ti_5052.fw.ihex
+END
+mts_cdma.fw.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/mts_cdma.fw.ihex
+END
+mts_edge.fw.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/mts_edge.fw.ihex
+END
+tr_smctr.bin.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/tr_smctr.bin.ihex
+END
+whiteheat_loader_debug.HEX
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/whiteheat_loader_debug.HEX
+END
+whiteheat.HEX
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/whiteheat.HEX
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/.gitignore
+END
+bnx2x-e1h-5.2.13.0.fw.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/bnx2x-e1h-5.2.13.0.fw.ihex
+END
+sd8686_helper.bin
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/sd8686_helper.bin
+END
+WHENCE
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/WHENCE
+END
+sd8686.bin
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/sd8686.bin
+END
+atmsar11.HEX
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/atmsar11.HEX
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/Makefile
+END

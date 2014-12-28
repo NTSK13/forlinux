@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/arm/plat-mxc/devices
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/arm/plat-mxc/devices/Kconfig
+END
+platform-flexcan.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/arm/plat-mxc/devices/platform-flexcan.c
+END
+platform-imx-uart.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/arm/plat-mxc/devices/platform-imx-uart.c
+END
+platform-mxc_nand.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/arm/plat-mxc/devices/platform-mxc_nand.c
+END
+platform-imx-i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/arm/plat-mxc/devices/platform-imx-i2c.c
+END
+platform-spi_imx.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/arm/plat-mxc/devices/platform-spi_imx.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/arm/plat-mxc/devices/Makefile
+END

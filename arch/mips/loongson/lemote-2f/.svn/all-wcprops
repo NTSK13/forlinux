@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/loongson/lemote-2f
+END
+ec_kb3310b.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/loongson/lemote-2f/ec_kb3310b.h
+END
+reset.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/loongson/lemote-2f/reset.c
+END
+machtype.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/loongson/lemote-2f/machtype.c
+END
+irq.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/loongson/lemote-2f/irq.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/loongson/lemote-2f/Makefile
+END
+ec_kb3310b.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/loongson/lemote-2f/ec_kb3310b.c
+END
+pm.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/loongson/lemote-2f/pm.c
+END

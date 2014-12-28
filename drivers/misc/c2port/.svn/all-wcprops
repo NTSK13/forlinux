@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/misc/c2port
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/misc/c2port/Kconfig
+END
+core.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/misc/c2port/core.c
+END
+c2port-duramar2150.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/misc/c2port/c2port-duramar2150.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/misc/c2port/Makefile
+END

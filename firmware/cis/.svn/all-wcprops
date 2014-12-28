@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/cis
+END
+SW_7xx_SER.cis.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/cis/SW_7xx_SER.cis.ihex
+END
+SW_8xx_SER.cis.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/cis/SW_8xx_SER.cis.ihex
+END
+LA-PCM.cis.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/cis/LA-PCM.cis.ihex
+END
+DP83903.cis.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/cis/DP83903.cis.ihex
+END
+RS-COM-2P.cis.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/cis/RS-COM-2P.cis.ihex
+END
+3CXEM556.cis.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/cis/3CXEM556.cis.ihex
+END
+PCMLM28.cis.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/cis/PCMLM28.cis.ihex
+END
+tamarack.cis.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/cis/tamarack.cis.ihex
+END
+COMpad2.cis.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/cis/COMpad2.cis.ihex
+END
+COMpad4.cis.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/cis/COMpad4.cis.ihex
+END
+PE520.cis.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/cis/PE520.cis.ihex
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/cis/.gitignore
+END
+NE2K.cis.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/cis/NE2K.cis.ihex
+END
+SW_555_SER.cis.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/cis/SW_555_SER.cis.ihex
+END
+MT5634ZLX.cis.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/cis/MT5634ZLX.cis.ihex
+END
+3CCFEM556.cis.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/cis/3CCFEM556.cis.ihex
+END
+PE-200.cis.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/cis/PE-200.cis.ihex
+END

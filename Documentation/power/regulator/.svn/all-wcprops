@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/power/regulator
+END
+machine.txt
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/power/regulator/machine.txt
+END
+regulator.txt
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/power/regulator/regulator.txt
+END
+overview.txt
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/power/regulator/overview.txt
+END
+design.txt
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/power/regulator/design.txt
+END
+consumer.txt
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/power/regulator/consumer.txt
+END

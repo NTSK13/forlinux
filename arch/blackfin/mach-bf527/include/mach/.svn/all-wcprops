@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/blackfin/mach-bf527/include/mach
+END
+irq.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/blackfin/mach-bf527/include/mach/irq.h
+END
+gpio.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/blackfin/mach-bf527/include/mach/gpio.h
+END
+defBF52x_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/blackfin/mach-bf527/include/mach/defBF52x_base.h
+END
+defBF522.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/blackfin/mach-bf527/include/mach/defBF522.h
+END
+anomaly.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/blackfin/mach-bf527/include/mach/anomaly.h
+END
+dma.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/blackfin/mach-bf527/include/mach/dma.h
+END
+defBF525.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/blackfin/mach-bf527/include/mach/defBF525.h
+END
+cdefBF52x_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/blackfin/mach-bf527/include/mach/cdefBF52x_base.h
+END
+cdefBF522.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/blackfin/mach-bf527/include/mach/cdefBF522.h
+END
+defBF527.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/blackfin/mach-bf527/include/mach/defBF527.h
+END
+cdefBF525.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/blackfin/mach-bf527/include/mach/cdefBF525.h
+END
+cdefBF527.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/blackfin/mach-bf527/include/mach/cdefBF527.h
+END
+blackfin.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/blackfin/mach-bf527/include/mach/blackfin.h
+END
+mem_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/blackfin/mach-bf527/include/mach/mem_map.h
+END
+portmux.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/blackfin/mach-bf527/include/mach/portmux.h
+END
+bfin_serial_5xx.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/blackfin/mach-bf527/include/mach/bfin_serial_5xx.h
+END
+bf527.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/blackfin/mach-bf527/include/mach/bf527.h
+END

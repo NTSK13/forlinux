@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/solo6x10
+END
+solo6010-i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/solo6x10/solo6010-i2c.c
+END
+solo6010-offsets.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/solo6x10/solo6010-offsets.h
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/solo6x10/Kconfig
+END
+solo6010-g723.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/solo6x10/solo6010-g723.c
+END
+solo6010-v4l2.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/solo6x10/solo6010-v4l2.c
+END
+solo6010-core.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/solo6x10/solo6010-core.c
+END
+solo6010-jpeg.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/solo6x10/solo6010-jpeg.h
+END
+solo6010-v4l2-enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/solo6x10/solo6010-v4l2-enc.c
+END
+solo6010-p2m.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/solo6x10/solo6010-p2m.c
+END
+solo6010-osd-font.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/solo6x10/solo6010-osd-font.h
+END
+solo6010-gpio.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/solo6x10/solo6010-gpio.c
+END
+solo6010-disp.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/solo6x10/solo6010-disp.c
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/solo6x10/TODO
+END
+solo6010-tw28.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/solo6x10/solo6010-tw28.c
+END
+solo6010-enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/solo6x10/solo6010-enc.c
+END
+solo6010.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/solo6x10/solo6010.h
+END
+solo6010-tw28.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/solo6x10/solo6010-tw28.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/solo6x10/Makefile
+END
+solo6010-registers.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/solo6x10/solo6010-registers.h
+END

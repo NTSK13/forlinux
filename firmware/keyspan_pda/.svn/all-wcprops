@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/keyspan_pda
+END
+keyspan_pda.S
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/keyspan_pda/keyspan_pda.S
+END
+keyspan_pda.HEX
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/keyspan_pda/keyspan_pda.HEX
+END
+xircom_pgs.S
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/keyspan_pda/xircom_pgs.S
+END
+xircom_pgs.HEX
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/keyspan_pda/xircom_pgs.HEX
+END

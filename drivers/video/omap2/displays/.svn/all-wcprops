@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/video/omap2/displays
+END
+panel-taal.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/video/omap2/displays/panel-taal.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/video/omap2/displays/Kconfig
+END
+panel-acx565akm.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/video/omap2/displays/panel-acx565akm.c
+END
+panel-toppoly-tdo35s.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/video/omap2/displays/panel-toppoly-tdo35s.c
+END
+panel-tpo-td043mtea1.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/video/omap2/displays/panel-tpo-td043mtea1.c
+END
+panel-generic.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/video/omap2/displays/panel-generic.c
+END
+panel-sharp-ls037v7dw01.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/video/omap2/displays/panel-sharp-ls037v7dw01.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/video/omap2/displays/Makefile
+END
+panel-sharp-lq043t1dg01.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/video/omap2/displays/panel-sharp-lq043t1dg01.c
+END

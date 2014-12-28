@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/media/video/gspca/gl860
+END
+gl860-ov2640.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/media/video/gspca/gl860/gl860-ov2640.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/media/video/gspca/gl860/Kconfig
+END
+gl860.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/media/video/gspca/gl860/gl860.c
+END
+gl860.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/media/video/gspca/gl860/gl860.h
+END
+gl860-mi2020.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/media/video/gspca/gl860/gl860-mi2020.c
+END
+gl860-mi1320.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/media/video/gspca/gl860/gl860-mi1320.c
+END
+gl860-ov9655.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/media/video/gspca/gl860/gl860-ov9655.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/media/video/gspca/gl860/Makefile
+END

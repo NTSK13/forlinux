@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/blackfin/mach-bf533/boards
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/blackfin/mach-bf533/boards/Kconfig
+END
+ip0x.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/blackfin/mach-bf533/boards/ip0x.c
+END
+blackstamp.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/blackfin/mach-bf533/boards/blackstamp.c
+END
+cm_bf533.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/blackfin/mach-bf533/boards/cm_bf533.c
+END
+stamp.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/blackfin/mach-bf533/boards/stamp.c
+END
+ezkit.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/blackfin/mach-bf533/boards/ezkit.c
+END
+H8606.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/blackfin/mach-bf533/boards/H8606.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/blackfin/mach-bf533/boards/Makefile
+END

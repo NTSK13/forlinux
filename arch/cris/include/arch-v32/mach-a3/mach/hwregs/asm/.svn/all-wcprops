@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/cris/include/arch-v32/mach-a3/mach/hwregs/asm
+END
+reg_map_asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/cris/include/arch-v32/mach-a3/mach/hwregs/asm/reg_map_asm.h
+END
+ddr2_defs_asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/cris/include/arch-v32/mach-a3/mach/hwregs/asm/ddr2_defs_asm.h
+END
+gio_defs_asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/cris/include/arch-v32/mach-a3/mach/hwregs/asm/gio_defs_asm.h
+END
+pinmux_defs_asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/cris/include/arch-v32/mach-a3/mach/hwregs/asm/pinmux_defs_asm.h
+END
+timer_defs_asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/cris/include/arch-v32/mach-a3/mach/hwregs/asm/timer_defs_asm.h
+END
+clkgen_defs_asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/cris/include/arch-v32/mach-a3/mach/hwregs/asm/clkgen_defs_asm.h
+END
+pio_defs_asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/cris/include/arch-v32/mach-a3/mach/hwregs/asm/pio_defs_asm.h
+END

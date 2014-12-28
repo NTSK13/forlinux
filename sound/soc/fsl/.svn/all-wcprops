@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/sound/soc/fsl
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/sound/soc/fsl/Kconfig
+END
+fsl_ssi.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/sound/soc/fsl/fsl_ssi.c
+END
+efika-audio-fabric.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/sound/soc/fsl/efika-audio-fabric.c
+END
+fsl_dma.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/sound/soc/fsl/fsl_dma.c
+END
+mpc5200_dma.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/sound/soc/fsl/mpc5200_dma.c
+END
+fsl_ssi.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/sound/soc/fsl/fsl_ssi.h
+END
+mpc5200_psc_i2s.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/sound/soc/fsl/mpc5200_psc_i2s.c
+END
+fsl_dma.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/sound/soc/fsl/fsl_dma.h
+END
+mpc5200_dma.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/sound/soc/fsl/mpc5200_dma.h
+END
+soc-of-simple.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/sound/soc/fsl/soc-of-simple.c
+END
+mpc5200_psc_ac97.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/sound/soc/fsl/mpc5200_psc_ac97.c
+END
+mpc5200_psc_ac97.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/sound/soc/fsl/mpc5200_psc_ac97.h
+END
+pcm030-audio-fabric.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/sound/soc/fsl/pcm030-audio-fabric.c
+END
+mpc8610_hpcd.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/sound/soc/fsl/mpc8610_hpcd.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/sound/soc/fsl/Makefile
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/sound/soc/ep93xx
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/sound/soc/ep93xx/Kconfig
+END
+ep93xx-i2s.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/sound/soc/ep93xx/ep93xx-i2s.h
+END
+ep93xx-pcm.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/sound/soc/ep93xx/ep93xx-pcm.h
+END
+ep93xx-i2s.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/sound/soc/ep93xx/ep93xx-i2s.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/sound/soc/ep93xx/Makefile
+END
+ep93xx-pcm.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/sound/soc/ep93xx/ep93xx-pcm.c
+END
+snappercl15.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/sound/soc/ep93xx/snappercl15.c
+END

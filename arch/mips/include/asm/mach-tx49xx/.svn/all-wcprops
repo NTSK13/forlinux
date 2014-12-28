@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/include/asm/mach-tx49xx
+END
+war.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/include/asm/mach-tx49xx/war.h
+END
+ioremap.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/include/asm/mach-tx49xx/ioremap.h
+END
+cpu-feature-overrides.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/include/asm/mach-tx49xx/cpu-feature-overrides.h
+END
+kmalloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/include/asm/mach-tx49xx/kmalloc.h
+END
+mangle-port.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/include/asm/mach-tx49xx/mangle-port.h
+END

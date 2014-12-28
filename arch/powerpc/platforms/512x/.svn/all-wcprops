@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/powerpc/platforms/512x
+END
+pdm360ng.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/powerpc/platforms/512x/pdm360ng.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/powerpc/platforms/512x/Kconfig
+END
+mpc5121_ads.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/powerpc/platforms/512x/mpc5121_ads.c
+END
+mpc5121_ads_cpld.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/powerpc/platforms/512x/mpc5121_ads_cpld.c
+END
+mpc5121_ads.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/powerpc/platforms/512x/mpc5121_ads.h
+END
+mpc5121_generic.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/powerpc/platforms/512x/mpc5121_generic.c
+END
+mpc512x.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/powerpc/platforms/512x/mpc512x.h
+END
+mpc512x_shared.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/powerpc/platforms/512x/mpc512x_shared.c
+END
+clock.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/powerpc/platforms/512x/clock.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/powerpc/platforms/512x/Makefile
+END

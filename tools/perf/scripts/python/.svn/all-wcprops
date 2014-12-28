@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/tools/perf/scripts/python
+END
+sctop.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/tools/perf/scripts/python/sctop.py
+END
+sched-migration.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/tools/perf/scripts/python/sched-migration.py
+END
+failed-syscalls-by-pid.py
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/tools/perf/scripts/python/failed-syscalls-by-pid.py
+END
+check-perf-trace.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/tools/perf/scripts/python/check-perf-trace.py
+END
+syscall-counts.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/tools/perf/scripts/python/syscall-counts.py
+END
+syscall-counts-by-pid.py
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/tools/perf/scripts/python/syscall-counts-by-pid.py
+END

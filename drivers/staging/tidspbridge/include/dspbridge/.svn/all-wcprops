@@ -1,0 +1,443 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge
+END
+dspchnl.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/dspchnl.h
+END
+dspmsg.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/dspmsg.h
+END
+drvdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/drvdefs.h
+END
+resourcecleanup.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/resourcecleanup.h
+END
+cfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/cfg.h
+END
+pwr_sh.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/pwr_sh.h
+END
+dehdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/dehdefs.h
+END
+procpriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/procpriv.h
+END
+gs.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/gs.h
+END
+host_os.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/host_os.h
+END
+dbdcddef.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/dbdcddef.h
+END
+dblldefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/dblldefs.h
+END
+devdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/devdefs.h
+END
+ldr.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/ldr.h
+END
+services.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/services.h
+END
+chnl.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/chnl.h
+END
+nodepriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/nodepriv.h
+END
+nodedefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/nodedefs.h
+END
+strmdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/strmdefs.h
+END
+msgdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/msgdefs.h
+END
+wdt.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/wdt.h
+END
+disp.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/disp.h
+END
+dbdcd.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/dbdcd.h
+END
+cfgdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/cfgdefs.h
+END
+getsection.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/getsection.h
+END
+cod.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/cod.h
+END
+list.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/list.h
+END
+cmm.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/cmm.h
+END
+dmm.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/dmm.h
+END
+utildefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/utildefs.h
+END
+mgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/mgr.h
+END
+chnlpriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/chnlpriv.h
+END
+chnldefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/chnldefs.h
+END
+dbdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/dbdefs.h
+END
+gb.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/gb.h
+END
+rmm.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/rmm.h
+END
+gh.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/gh.h
+END
+nldr.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/nldr.h
+END
+dispdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/dispdefs.h
+END
+uuidutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/uuidutil.h
+END
+io.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/io.h
+END
+pwr.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/pwr.h
+END
+clk.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/clk.h
+END
+dynamic_loader.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/dynamic_loader.h
+END
+cmmdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/cmmdefs.h
+END
+ntfy.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/ntfy.h
+END
+memdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/memdefs.h
+END
+mbx_sh.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/mbx_sh.h
+END
+dspapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/dspapi.h
+END
+dspioctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/dspioctl.h
+END
+_chnl_sm.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/_chnl_sm.h
+END
+mgrpriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/mgrpriv.h
+END
+dspapi-ioctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/dspapi-ioctl.h
+END
+dspdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/dspdefs.h
+END
+drv.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/drv.h
+END
+rms_sh.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/rms_sh.h
+END
+nldrdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/nldrdefs.h
+END
+dspdrv.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/dspdrv.h
+END
+proc.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/proc.h
+END
+dbldefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/dbldefs.h
+END
+io_sm.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/io_sm.h
+END
+dspdeh.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/dspdeh.h
+END
+iodefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/iodefs.h
+END
+brddefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/brddefs.h
+END
+sync.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/sync.h
+END
+dbll.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/dbll.h
+END
+dspio.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/dspio.h
+END
+dev.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/dev.h
+END
+node.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/node.h
+END
+strm.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/strm.h
+END
+msg.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/msg.h
+END
+rmstypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/rmstypes.h
+END
+dbc.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/include/dspbridge/dbc.h
+END

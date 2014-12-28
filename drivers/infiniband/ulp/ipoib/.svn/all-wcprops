@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/infiniband/ulp/ipoib
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/infiniband/ulp/ipoib/Kconfig
+END
+ipoib_ethtool.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/infiniband/ulp/ipoib/ipoib_ethtool.c
+END
+ipoib_cm.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/infiniband/ulp/ipoib/ipoib_cm.c
+END
+ipoib_vlan.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/infiniband/ulp/ipoib/ipoib_vlan.c
+END
+ipoib_verbs.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/infiniband/ulp/ipoib/ipoib_verbs.c
+END
+ipoib_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/infiniband/ulp/ipoib/ipoib_main.c
+END
+ipoib.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/infiniband/ulp/ipoib/ipoib.h
+END
+ipoib_multicast.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/infiniband/ulp/ipoib/ipoib_multicast.c
+END
+ipoib_fs.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/infiniband/ulp/ipoib/ipoib_fs.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/infiniband/ulp/ipoib/Makefile
+END
+ipoib_ib.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/infiniband/ulp/ipoib/ipoib_ib.c
+END

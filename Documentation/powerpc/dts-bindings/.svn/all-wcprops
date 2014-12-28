@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/powerpc/dts-bindings
+END
+marvell.txt
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/powerpc/dts-bindings/marvell.txt
+END
+spi-bus.txt
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/powerpc/dts-bindings/spi-bus.txt
+END
+mtd-physmap.txt
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/powerpc/dts-bindings/mtd-physmap.txt
+END
+ecm.txt
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/powerpc/dts-bindings/ecm.txt
+END
+mmc-spi-slot.txt
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/powerpc/dts-bindings/mmc-spi-slot.txt
+END
+xilinx.txt
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/powerpc/dts-bindings/xilinx.txt
+END
+usb-ehci.txt
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/powerpc/dts-bindings/usb-ehci.txt
+END
+phy.txt
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/powerpc/dts-bindings/phy.txt
+END

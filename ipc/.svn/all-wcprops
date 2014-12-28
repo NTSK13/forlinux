@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/ipc
+END
+mqueue.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/ipc/mqueue.c
+END
+syscall.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/ipc/syscall.c
+END
+ipcns_notifier.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/ipc/ipcns_notifier.c
+END
+ipc_sysctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/ipc/ipc_sysctl.c
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/ipc/util.c
+END
+mq_sysctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/ipc/mq_sysctl.c
+END
+compat_mq.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/ipc/compat_mq.c
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/ipc/util.h
+END
+compat.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/ipc/compat.c
+END
+sem.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/ipc/sem.c
+END
+msgutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/ipc/msgutil.c
+END
+msg.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/ipc/msg.c
+END
+shm.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/ipc/shm.c
+END
+namespace.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/ipc/namespace.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/ipc/Makefile
+END

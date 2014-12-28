@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/tools/perf/scripts/perl
+END
+wakeup-latency.pl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/tools/perf/scripts/perl/wakeup-latency.pl
+END
+rw-by-pid.pl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/tools/perf/scripts/perl/rw-by-pid.pl
+END
+rwtop.pl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/tools/perf/scripts/perl/rwtop.pl
+END
+rw-by-file.pl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/tools/perf/scripts/perl/rw-by-file.pl
+END
+failed-syscalls.pl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/tools/perf/scripts/perl/failed-syscalls.pl
+END
+check-perf-trace.pl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/tools/perf/scripts/perl/check-perf-trace.pl
+END
+workqueue-stats.pl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/tools/perf/scripts/perl/workqueue-stats.pl
+END

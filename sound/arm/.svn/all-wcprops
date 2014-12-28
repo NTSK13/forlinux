@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/sound/arm
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/sound/arm/Kconfig
+END
+pxa2xx-ac97-lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/sound/arm/pxa2xx-ac97-lib.c
+END
+aaci.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/sound/arm/aaci.h
+END
+pxa2xx-pcm.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/sound/arm/pxa2xx-pcm.c
+END
+pxa2xx-ac97.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/sound/arm/pxa2xx-ac97.c
+END
+pxa2xx-pcm-lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/sound/arm/pxa2xx-pcm-lib.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/sound/arm/Makefile
+END
+pxa2xx-pcm.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/sound/arm/pxa2xx-pcm.h
+END
+aaci.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/sound/arm/aaci.c
+END

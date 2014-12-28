@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/e100
+END
+d101m_ucode.bin.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/e100/d101m_ucode.bin.ihex
+END
+d101s_ucode.bin.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/e100/d101s_ucode.bin.ihex
+END
+d102e_ucode.bin.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/e100/d102e_ucode.bin.ihex
+END

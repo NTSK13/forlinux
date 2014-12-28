@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/fs/hostfs
+END
+hostfs_user.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/fs/hostfs/hostfs_user.c
+END
+hostfs_kern.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/fs/hostfs/hostfs_kern.c
+END
+hostfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/fs/hostfs/hostfs.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/fs/hostfs/Makefile
+END

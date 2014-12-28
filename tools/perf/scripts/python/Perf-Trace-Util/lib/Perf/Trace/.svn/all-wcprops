@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/tools/perf/scripts/python/Perf-Trace-Util/lib/Perf/Trace
+END
+Core.py
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/tools/perf/scripts/python/Perf-Trace-Util/lib/Perf/Trace/Core.py
+END
+SchedGui.py
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/tools/perf/scripts/python/Perf-Trace-Util/lib/Perf/Trace/SchedGui.py
+END
+Util.py
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/tools/perf/scripts/python/Perf-Trace-Util/lib/Perf/Trace/Util.py
+END

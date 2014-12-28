@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/media/video/gspca/m5602
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/media/video/gspca/m5602/Kconfig
+END
+m5602_ov7660.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/media/video/gspca/m5602/m5602_ov7660.c
+END
+m5602_ov9650.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/media/video/gspca/m5602/m5602_ov9650.c
+END
+m5602_mt9m111.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/media/video/gspca/m5602/m5602_mt9m111.c
+END
+m5602_ov7660.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/media/video/gspca/m5602/m5602_ov7660.h
+END
+m5602_ov9650.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/media/video/gspca/m5602/m5602_ov9650.h
+END
+m5602_s5k83a.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/media/video/gspca/m5602/m5602_s5k83a.c
+END
+m5602_mt9m111.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/media/video/gspca/m5602/m5602_mt9m111.h
+END
+m5602_sensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/media/video/gspca/m5602/m5602_sensor.h
+END
+m5602_po1030.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/media/video/gspca/m5602/m5602_po1030.c
+END
+m5602_s5k83a.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/media/video/gspca/m5602/m5602_s5k83a.h
+END
+m5602_po1030.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/media/video/gspca/m5602/m5602_po1030.h
+END
+m5602_s5k4aa.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/media/video/gspca/m5602/m5602_s5k4aa.c
+END
+m5602_core.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/media/video/gspca/m5602/m5602_core.c
+END
+m5602_s5k4aa.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/media/video/gspca/m5602/m5602_s5k4aa.h
+END
+m5602_bridge.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/media/video/gspca/m5602/m5602_bridge.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/media/video/gspca/m5602/Makefile
+END

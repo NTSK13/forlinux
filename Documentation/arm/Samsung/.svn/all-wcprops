@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/arm/Samsung
+END
+Overview.txt
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/arm/Samsung/Overview.txt
+END
+clksrc-change-registers.awk
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/arm/Samsung/clksrc-change-registers.awk
+END
+GPIO.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/arm/Samsung/GPIO.txt
+END

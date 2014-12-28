@@ -1,0 +1,9 @@
+/* This file is auto generated, version 490 */
+/*  PREEMPT */
+#define UTS_MACHINE "arm"
+#define UTS_VERSION "#490 PREEMPT Tue May 24 18:07:22 CST 2011"
+#define LINUX_COMPILE_TIME "18:07:22"
+#define LINUX_COMPILE_BY "root"
+#define LINUX_COMPILE_HOST "monkey-MS-7678"
+#define LINUX_COMPILE_DOMAIN "(none)"
+#define LINUX_COMPILER "gcc version 4.3.2 (Sourcery G++ Lite 2008q3-72) "

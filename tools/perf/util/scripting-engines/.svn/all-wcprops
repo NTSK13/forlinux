@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/tools/perf/util/scripting-engines
+END
+trace-event-python.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/tools/perf/util/scripting-engines/trace-event-python.c
+END
+trace-event-perl.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/tools/perf/util/scripting-engines/trace-event-perl.c
+END

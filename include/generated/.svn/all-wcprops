@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sourcecode-android/!svn/ver/85/tags/android2.3_kernel_v1.01/include/generated
+END
+mach-types.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/include/generated/mach-types.h
+END
+utsrelease.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sourcecode-android/!svn/ver/95/tags/android2.3_kernel_v1.01/include/generated/utsrelease.h
+END
+autoconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sourcecode-android/!svn/ver/97/tags/android2.3_kernel_v1.01/include/generated/autoconf.h
+END
+compile.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sourcecode-android/!svn/ver/97/tags/android2.3_kernel_v1.01/include/generated/compile.h
+END

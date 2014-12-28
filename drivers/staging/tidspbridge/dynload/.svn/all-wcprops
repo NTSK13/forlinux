@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/dynload
+END
+reloc_table.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/dynload/reloc_table.h
+END
+cload.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/dynload/cload.c
+END
+tramp_table_c6000.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/dynload/tramp_table_c6000.c
+END
+doff.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/dynload/doff.h
+END
+reloc_table_c6000.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/dynload/reloc_table_c6000.c
+END
+tramp.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/dynload/tramp.c
+END
+dload_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/dynload/dload_internal.h
+END
+getsection.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/dynload/getsection.c
+END
+reloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/dynload/reloc.c
+END
+module_list.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/dynload/module_list.h
+END
+params.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/dynload/params.h
+END
+header.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/drivers/staging/tidspbridge/dynload/header.h
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/powerpc/configs/52xx
+END
+pcm030_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/powerpc/configs/52xx/pcm030_defconfig
+END
+cm5200_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/powerpc/configs/52xx/cm5200_defconfig
+END
+lite5200b_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/powerpc/configs/52xx/lite5200b_defconfig
+END
+motionpro_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/powerpc/configs/52xx/motionpro_defconfig
+END
+tqm5200_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/powerpc/configs/52xx/tqm5200_defconfig
+END

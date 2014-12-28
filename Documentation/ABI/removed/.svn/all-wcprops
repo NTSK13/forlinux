@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/ABI/removed
+END
+devfs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/ABI/removed/devfs
+END
+raw1394_legacy_isochronous
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/ABI/removed/raw1394_legacy_isochronous
+END

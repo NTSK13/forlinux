@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/net/sunrpc/xprtrdma
+END
+svc_rdma.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/net/sunrpc/xprtrdma/svc_rdma.c
+END
+svc_rdma_recvfrom.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/net/sunrpc/xprtrdma/svc_rdma_recvfrom.c
+END
+verbs.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/net/sunrpc/xprtrdma/verbs.c
+END
+svc_rdma_marshal.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/net/sunrpc/xprtrdma/svc_rdma_marshal.c
+END
+xprt_rdma.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/net/sunrpc/xprtrdma/xprt_rdma.h
+END
+rpc_rdma.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/net/sunrpc/xprtrdma/rpc_rdma.c
+END
+svc_rdma_sendto.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/net/sunrpc/xprtrdma/svc_rdma_sendto.c
+END
+svc_rdma_transport.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/net/sunrpc/xprtrdma/svc_rdma_transport.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/net/sunrpc/xprtrdma/Makefile
+END
+transport.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/net/sunrpc/xprtrdma/transport.c
+END

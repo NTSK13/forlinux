@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/fs/xfs/quota
+END
+xfs_quota_priv.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/fs/xfs/quota/xfs_quota_priv.h
+END
+xfs_dquot_item.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/fs/xfs/quota/xfs_dquot_item.h
+END
+xfs_qm_stats.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/fs/xfs/quota/xfs_qm_stats.h
+END
+xfs_dquot.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/fs/xfs/quota/xfs_dquot.h
+END
+xfs_qm.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/fs/xfs/quota/xfs_qm.h
+END
+xfs_trans_dquot.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/fs/xfs/quota/xfs_trans_dquot.c
+END
+xfs_dquot_item.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/fs/xfs/quota/xfs_dquot_item.c
+END
+xfs_qm_syscalls.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/fs/xfs/quota/xfs_qm_syscalls.c
+END
+xfs_qm_stats.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/fs/xfs/quota/xfs_qm_stats.c
+END
+xfs_dquot.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/fs/xfs/quota/xfs_dquot.c
+END
+xfs_qm_bhv.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/fs/xfs/quota/xfs_qm_bhv.c
+END
+xfs_qm.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/fs/xfs/quota/xfs_qm.c
+END

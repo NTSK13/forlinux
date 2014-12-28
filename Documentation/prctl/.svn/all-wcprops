@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/prctl
+END
+disable-tsc-ctxt-sw-stress-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/prctl/disable-tsc-ctxt-sw-stress-test.c
+END
+disable-tsc-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/prctl/disable-tsc-test.c
+END
+disable-tsc-on-off-stress-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/prctl/disable-tsc-on-off-stress-test.c
+END

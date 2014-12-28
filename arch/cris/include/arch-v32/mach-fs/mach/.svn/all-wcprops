@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/cris/include/arch-v32/mach-fs/mach
+END
+memmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/cris/include/arch-v32/mach-fs/mach/memmap.h
+END
+pinmux.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/cris/include/arch-v32/mach-fs/mach/pinmux.h
+END
+dma.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/cris/include/arch-v32/mach-fs/mach/dma.h
+END
+startup.inc
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/cris/include/arch-v32/mach-fs/mach/startup.inc
+END
+arbiter.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/cris/include/arch-v32/mach-fs/mach/arbiter.h
+END

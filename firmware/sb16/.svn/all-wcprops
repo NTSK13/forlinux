@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/sb16
+END
+ima_adpcm_playback.csp.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/sb16/ima_adpcm_playback.csp.ihex
+END
+alaw_main.csp.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/sb16/alaw_main.csp.ihex
+END
+mulaw_main.csp.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/sb16/mulaw_main.csp.ihex
+END
+ima_adpcm_capture.csp.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/sb16/ima_adpcm_capture.csp.ihex
+END
+ima_adpcm_init.csp.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/firmware/sb16/ima_adpcm_init.csp.ihex
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/blockdev/drbd
+END
+drbd-connection-state-overview.dot
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/blockdev/drbd/drbd-connection-state-overview.dot
+END
+node-states-8.dot
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/blockdev/drbd/node-states-8.dot
+END
+disk-states-8.dot
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/blockdev/drbd/disk-states-8.dot
+END
+DRBD-data-packets.svg
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/blockdev/drbd/DRBD-data-packets.svg
+END
+conn-states-8.dot
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/blockdev/drbd/conn-states-8.dot
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/blockdev/drbd/README.txt
+END
+DRBD-8.3-data-packets.svg
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/blockdev/drbd/DRBD-8.3-data-packets.svg
+END

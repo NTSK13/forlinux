@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/tools/perf/scripts/perl/Perf-Trace-Util/lib/Perf/Trace
+END
+Context.pm
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/tools/perf/scripts/perl/Perf-Trace-Util/lib/Perf/Trace/Context.pm
+END
+Core.pm
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/tools/perf/scripts/perl/Perf-Trace-Util/lib/Perf/Trace/Core.pm
+END
+Util.pm
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/tools/perf/scripts/perl/Perf-Trace-Util/lib/Perf/Trace/Util.pm
+END

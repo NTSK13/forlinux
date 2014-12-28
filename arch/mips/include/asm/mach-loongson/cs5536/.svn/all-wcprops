@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/include/asm/mach-loongson/cs5536
+END
+cs5536_vsm.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/include/asm/mach-loongson/cs5536/cs5536_vsm.h
+END
+cs5536_pci.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/include/asm/mach-loongson/cs5536/cs5536_pci.h
+END
+cs5536_mfgpt.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/include/asm/mach-loongson/cs5536/cs5536_mfgpt.h
+END
+cs5536.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/arch/mips/include/asm/mach-loongson/cs5536/cs5536.h
+END

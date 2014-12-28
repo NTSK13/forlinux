@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/tools/perf/scripts/python/bin
+END
+syscall-counts-record
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/tools/perf/scripts/python/bin/syscall-counts-record
+END
+sctop-report
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/tools/perf/scripts/python/bin/sctop-report
+END
+syscall-counts-by-pid-record
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/tools/perf/scripts/python/bin/syscall-counts-by-pid-record
+END
+sctop-record
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/tools/perf/scripts/python/bin/sctop-record
+END
+sched-migration-report
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/tools/perf/scripts/python/bin/sched-migration-report
+END
+sched-migration-record
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/tools/perf/scripts/python/bin/sched-migration-record
+END
+failed-syscalls-by-pid-report
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/tools/perf/scripts/python/bin/failed-syscalls-by-pid-report
+END
+syscall-counts-report
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/tools/perf/scripts/python/bin/syscall-counts-report
+END
+failed-syscalls-by-pid-record
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/tools/perf/scripts/python/bin/failed-syscalls-by-pid-record
+END
+syscall-counts-by-pid-report
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/tools/perf/scripts/python/bin/syscall-counts-by-pid-report
+END

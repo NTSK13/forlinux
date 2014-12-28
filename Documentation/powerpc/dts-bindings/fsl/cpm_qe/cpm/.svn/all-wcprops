@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/powerpc/dts-bindings/fsl/cpm_qe/cpm
+END
+usb.txt
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/powerpc/dts-bindings/fsl/cpm_qe/cpm/usb.txt
+END
+brg.txt
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/powerpc/dts-bindings/fsl/cpm_qe/cpm/brg.txt
+END
+pic.txt
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/powerpc/dts-bindings/fsl/cpm_qe/cpm/pic.txt
+END
+i2c.txt
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/sourcecode-android/!svn/ver/84/tags/android2.3_kernel_v1.01/Documentation/powerpc/dts-bindings/fsl/cpm_qe/cpm/i2c.txt
+END
